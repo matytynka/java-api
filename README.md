@@ -1,6 +1,4 @@
-# java-api 
-
-MS
+# java-api
 
 Database
 ---
